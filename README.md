@@ -1,2 +1,2 @@
-# Python_academind_course_00
-This is my repository for working on Python course from Academind website.
+# 00_LEARNING_PYTHON
+This is my repository for working on Python courses and learning projects.
